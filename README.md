@@ -7,7 +7,7 @@ Due to the confidentiality of the data presented in this paper, we are unable to
 
 
 # Usage
-1. Install Python 3.7 For convenience, execute the following command.
+1. Install Python 3.7. For convenience, execute the following command.
 ```
 pip install -r requirements.txt
 ```
