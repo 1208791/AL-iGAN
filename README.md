@@ -33,7 +33,8 @@ pip install -r requirements.txt
             |---model (folder)
             |---result (folder)
 ```
-where 0 is the number of active learning times
+where 0 is the number of active learning times.
+
 3. Train and evaluate model. We provide the demo for all benchmarks in the file `run.py` and `run_other.py`
 # Citation
 If you find this repo useful, please cite our paper.
