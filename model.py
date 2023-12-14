@@ -29,7 +29,7 @@ class run_other_model():
         self.number = number
         self.strname = strname
         self.stand = stand
-        self.stand_data_src = './基准数据/'
+        self.stand_data_src = './stand_data/'
         self.datasrc = './%s/%s/%s/data/' % (self.model_name, self.strname, self.number)
         self.src = './%s/%s/%s/'%(self.model_name, self.strname, self.number)
         self.modelsrc = './%s/%s/%s/model/'%(self.model_name, self.strname, self.number)
