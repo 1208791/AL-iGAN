@@ -39,6 +39,12 @@ where 0 is the number of active learning times.
 # Citation
 If you find this repo useful, please cite our paper.
 ```
-To be supplemented
+@article{WANG2024105230,
+title = {Active learning framework for tunnel geological reconstruction based on TBM operational data},
+journal = {Automation in Construction},
+volume = {158},
+pages = {105230},
+year = {2024},
+}
 ```
 
